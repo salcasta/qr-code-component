@@ -1,0 +1,36 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+img {
+    height: 62% !important;
+    object-fit: cover;
+}
+
+.card {
+    margin: 5rem auto;
+}
+
+.card-title {
+    font-family: 'outfit', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+
+.card-text {
+    font-family: 'outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin: -4rem auto;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
